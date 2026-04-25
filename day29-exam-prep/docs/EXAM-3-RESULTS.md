@@ -1,19 +1,19 @@
 # Practice Exam 3 Results (Day 29)
 
-- Date:
+- Date: 2026-04-25
 - Time limit: 60 minutes
 - Questions: 57
-- Source:
+- Source: Mixed Terraform Associate practice set (fresh question pool)
 
 ## Score
 
-- Raw score: /57
-- Percentage: %
-- Time taken: min
-- Passed (>= 70%): Yes/No
+- Raw score: 54/57
+- Percentage: 95%
+- Time taken: 46 min
+- Passed (>= 70%): Yes
 
 ## Notes
 
-- Questions flagged:
-- Topics missed:
-- Confidence level:
+- Questions flagged: 6
+- Topics missed: Provider version range wording, one workspace edge case
+- Confidence level: High
